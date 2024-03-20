@@ -1,5 +1,5 @@
 # HTTP 267 Doubtful But Okay
-It is proposed to create an HTTP status for the name Oleg Tinkov `267 Doubtful But Okay`.
+It is proposed to create an HTTP status in the name of Oleg Tinkov `267 Doubtful But Okay`.
 
 This web server or application response status means that the parameters (URL or data) of the request have questionable semantics (perhaps conflicting data was passed by the client), but the request is nevertheless accepted and processed.
 
