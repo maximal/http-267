@@ -1,14 +1,14 @@
 # HTTP 267 Doubtful But Okay
-Предлагается создать HTTP-статус имени Олега Тинькова `267 Doubtful But Okay`.
+It is proposed to create an HTTP status in the name of Oleg Tinkov `267 Doubtful But Okay`.
 
-Данный статус ответа веб-сервера или приложения означает, что параметры (URL или данные) запроса имеют сомнительную семантику (возможно, клиентом переданы противоречивые данные), но, тем не менее, запрос принят и обработан.
-
-
-## Выбор кода и сообщения статуса
-Код статуса 267 выбран по году рождения Олега (1967 год).
-
-Сообщение статуса — перевод слов Олега из интервью Юрию Дудю «Сомнительно, но окэй» на английский язык.
+This web server or application response status means that the parameters (URL or data) of the request have questionable semantics (perhaps conflicting data was passed by the client), but the request is nevertheless accepted and processed.
 
 
-## Ссылки
-* Момент интервью с цитатой: https://www.youtube.com/watch?v=wDkztLMNK9k&t=3830s
+## Selecting a code and status message
+Status code 267 is chosen by Oleg's year of birth (1967).
+
+The status message is a translation of Oleg's words from his interview with Yury Dud "Doubtful, but okay" into English.
+
+
+## URLS
+* Quote interview moment: https://www.youtube.com/watch?v=wDkztLMNK9k&t=3830s
