@@ -10,4 +10,4 @@ The status message is a translation of Oleg's words from an interview with Yuri 
 
 ## References
 * [0] Moment from the interview with the quote: https://www.youtube.com/watch?v=wDkztLMNK9k&t=3830s
-* [1] Who is Oleg Tinkov
+* [1] Who is Oleg Tinkov: https://en.wikipedia.org/wiki/Oleg_Tinkov
