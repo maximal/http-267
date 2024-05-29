@@ -11,4 +11,4 @@
 
 
 ## Ссылки
-* Момент интервью с цитатой: https://www.youtube.com/watch?v=wDkztLMNK9k&t=3830s
+* Момент интервью с цитатой: https://www.youtube.com/watch?v=wDkztLMNK9k&t=3824s
